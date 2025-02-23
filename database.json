@@ -1,0 +1,250 @@
+{"Banner": [
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1740058030/banner_dku4m3.png"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "title": "Esspersso"
+    },
+    {
+      "id": 1,
+      "title": "Cappuccino"
+    },
+    {
+      "id": 2,
+      "title": "Latte"
+    },
+    {
+      "id": 3,
+      "title": "Americano"
+    },
+    {
+      "id": 4,
+      "title": "Hot Chocolate"
+    }
+  ],
+  "Popular": [
+    {
+      "description": "Cappuccino is a traditional Italian coffee drink made with equal parts espresso, steamed milk, and milk foam. It has a strong espresso flavor, balanced by the creamy texture of the steamed milk and the light, airy foam on top. Cappuccinos are often garnished with a sprinkle of cocoa powder or cinnamon.",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/Cappoccino.jpg?alt=media&token=0e553cec-a35b-499b-932e-dac928036209"
+      ],
+      "price": 24,
+      "rating": 4.6,
+      "title": "Cappoccino"
+    },
+    {
+      "description": "Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It is made by forcing a small amount of nearly boiling water through finely-ground coffee beans under high pressure. The result is a rich, robust flavor with a thick, creamy layer on top called crema.",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/espersso.jpg?alt=media&token=cda8f337-5335-4199-a9be-97c45cb91314"
+      ],
+      "price": 22,
+      "rating": 4,
+      "title": "Espersso"
+    },
+    {
+      "description": "Espresso is a concentrated form of coffee served in small,strongshots and is the base for many coffee drinks. It is made by forcing a small amount of nearly boiling water through finely-ground coffee beans under high pressure.The result is a rich, robust flavor with a thick, creamy layer on top called crema",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/affagato.jpg?alt=media&token=003f38e5-b562-4735-877c-36c41ceb921b"
+      ],
+      "price": 20,
+      "rating": 4.1,
+      "title": "Affagato"
+    },
+    {
+      "description": "Espresso is a concentrated form of coffee served in small,strongshots and is the base for many coffee drinks. It is made by forcing a small amount of nearly boiling water through finely-ground coffee beans under high pressure.The result is a rich, robust flavor with a thick, creamy layer on top called crema",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Matcha%20Latte.png?alt=media&token=c3f61d4f-d78b-4c23-b4b0-4f1979f010a5"
+      ],
+      "price":30,
+      "rating": 4.4,
+      "title": "Americano"
+    }
+  ],
+"Items":[ {
+      "categoryId": "1",
+      "description": "A seasonal favorite, this comforting latte combines the richness of espresso with the creamy sweetness of pumpkin spice, milk, and a touch of cinnamon. Perfect for autumn or any cozy moment.",
+      "extra": "Espresso, steamed milk, pumpkin spice syrup, cinnamon.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Pumpkin%20Latte.jpg?alt=media&token=3ecbd58d-1d7b-4e70-9386-931b6cec55eb"
+      ],
+      "price": 5.5,
+  "rating": 4.6,
+
+      "title": "Pumpkin Latte"
+    },
+    {
+      "categoryId": "1",
+      "description": "A bold espresso drink topped with a small amount of milk foam. Perfect for those who love the intensity of espresso but want a smoother finish.",
+      "extra": "Espresso, milk foam",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Macchiato.png?alt=media&token=b66fbc1f-0dfb-4e3d-ae2a-aa4f261be349"
+      ],
+      "price": 3.5,
+  "rating": 4.6,
+
+      "title": "Macchiato"
+    },
+    {
+      "categoryId": "1",
+      "description": "A vibrant and healthy option, the Matcha Latte combines high-quality matcha green tea with steamed milk for a creamy and refreshing beverage, offering a unique twist on traditional lattes.",
+      "extra": "Matcha powder, steamed milk, a touch of sweetener (optional)",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Matcha%20Latte.png?alt=media&token=c3f61d4f-d78b-4c23-b4b0-4f1979f010a5"
+      ],
+      "price": 5,
+  "rating": 4.6,
+
+      "title": "Matcha Latte"
+    },
+    {
+      "categoryId": "1",
+      "description": "A balanced blend of espresso and warm milk, the cortado delivers a smooth coffee experience with just the right level of intensity. A great pick for coffee lovers who prefer a little less milk.",
+      "extra": "Espresso, steamed milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Cortado.png?alt=media&token=1bad17fb-9cb9-4bcc-9673-4f13c56474bb"
+      ],
+      "price": 3.75,
+  "rating": 4.6,
+
+      "title": "Cortado"
+    },
+    {
+      "categoryId": "1",
+      "description": "A delightful Italian dessert coffee, the affogato pairs a scoop of creamy vanilla ice cream with a shot of hot espresso, creating a perfect harmony of hot and cold.",
+      "extra": "Espresso, vanilla ice cream",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Affogato.png?alt=media&token=d04ccd0e-dc98-456a-9941-c718dc669cc8"
+      ],
+      "price": 6,
+  "rating": 4.6,
+
+      "title": "Affogato"
+    },
+    {
+      "categoryId": "2",
+      "description": "A refreshing citrus blend made from fresh orange juice, this drink offers a perfect balance of sweetness and tanginess. It's a delightful thirst quencher, especially on a warm day.",
+      "extra": "Fresh orange juice, sugar, water, ice",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Naranja.png?alt=media&token=0101b29a-6ce8-4498-922c-f82248431100"
+      ],
+      "price": 4.5,
+  "rating": 4.6,
+
+      "title": "Naranja"
+    },
+    {
+      "categoryId": "2",
+      "description": "A fusion of exotic herbs and spices, Estra Astar is an aromatic and soothing beverage with a hint of floral sweetness. Ideal for a relaxing moment at any time of the day.",
+      "extra": "Green tea, star anise, cinnamon, honey, lemon",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Estra%20Astar.png?alt=media&token=28e44a36-c309-436a-b9fb-328f360b409d"
+      ],
+      "price": 5,
+  "rating": 4.6,
+
+      "title": "Estra Astar"
+    },
+    {
+      "categoryId": "2",
+      "description": "This classic mojito is a refreshing blend of mint, lime, and sparkling water with a touch of sweetness. Served chilled, it is an ideal choice for those who love light and zesty flavors.",
+      "extra": " Fresh mint leaves, lime juice, sugar, soda water, ice",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Mojito.png?alt=media&token=b5ac2baf-f639-4c31-af5d-2d818c222fd5"
+      ],
+      "price": 6,
+  "rating": 4.6,
+
+      "title": "Mojito"
+    },
+    {
+      "categoryId": "2",
+      "description": " A timeless favorite, our lemonade is made from freshly squeezed lemons and just the right amount of sugar. It’s a zesty, sweet, and tangy drink perfect for cooling down.",
+      "extra": "Fresh lemon juice, sugar, water, ice",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Lemonade.png?alt=media&token=54443307-df4f-4d8d-b0da-52b0ffd7b4ed"
+      ],
+      "price": 4,
+  "rating": 4.6,
+
+      "title": "Lemonade"
+    },
+    {
+      "categoryId": "2",
+      "description": " The Green Ginger drink is a lively combination of ginger and lime with an earthy, refreshing twist. The invigorating ginger provides warmth, while lime adds a fresh burst of citrus flavor.",
+      "extra": "Fresh ginger, lime juice, honey, soda water, ice",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Green%20Ginger.png?alt=media&token=b27be272-b083-4ace-a9de-2e44c5e70fd5"
+      ],
+      "price": 5.5,
+  "rating": 4.6,
+
+      "title": "Green Ginger"
+    },
+    {
+      "categoryId": "3",
+      "description": "A classic, refreshing black tea served hot to warm your senses. Perfect for a cozy afternoon break or a morning boost",
+      "extra": "Black tea leaves, hot water",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Simple%20Tea.jpg?alt=media&token=59bab7a1-d474-4496-a8ad-0f10e235850d"
+      ],
+      "price": 2,
+  "rating": 4.6,
+
+      "title": "Simple Tea"
+    },
+    {
+      "categoryId": "3",
+      "description": "Light and aromatic, this green tea is rich in antioxidants and provides a calm, natural energy boost. A healthy choice to start or end your day.",
+      "extra": "Green tea leaves, hot water",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Green%20Tea.jpg?alt=media&token=4bd736f4-373d-4c9e-ba56-19f3d52201bf"
+      ],
+      "price": 2.5,
+  "rating": 4.6,
+
+      "title": "Green Tea"
+    },
+    {
+      "categoryId": "3",
+      "description": "A floral and fruity herbal tea with a hint of sweetness, reminiscent of a beautiful sunset. This caffeine-free blend offers a calming and soothing experience. ",
+      "extra": "Hibiscus, rose hips, chamomile, orange peel, dried apple, natural flavors",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Victoria%20Sunset%20Herbal%20Tea.jpg?alt=media&token=fd3c4448-6fbe-43dd-857e-9ca543e21df9"
+      ],
+      "price": 3,
+  "rating": 4.6,
+
+      "title": "Victoria Sunset Herbal Tea"
+    },
+    {
+      "categoryId": "3",
+      "description": "A berry-infused herbal tea with a rich, fruity taste, perfect for berry lovers. This caffeine-free blend combines sweet and tart notes in a refreshing brew. ",
+      "extra": "Hibiscus, elderberry, blackberry leaves, rose hips, dried berries, natural flavors",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Queen%20Berry%20Herbal%20Tea.jpg?alt=media&token=93e50b89-d50e-41cb-8982-0632ef09a53a"
+      ],
+      "price": 3.2,
+  "rating": 4.6,
+
+      "title": "Queen Berry Herbal Tea"
+    },
+    {
+      "categoryId": "3",
+      "description": "This tea offers a warm, comforting taste of sweet apples with a hint of cinnamon and spices, perfect for a cozy fall day. Caffeine-free and packed with fruity flavors ",
+      "extra": "Dried apple, cinnamon, hibiscus, rose hips, clove, natural flavors",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Apple%20Paradise%20Herbal%20Tea.jpg?alt=media&token=ebe1d8cf-48d3-4fb4-9e81-21d2ac15d2b4"
+      ],
+      "price": 3,
+  "rating": 4.6,
+
+      "title": "Apple Paradise Herbal Tea"
+    }]
+}
